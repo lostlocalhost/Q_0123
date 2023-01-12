@@ -1,14 +1,24 @@
 # Q
 
+LLH: Fork of good long list of quantum computing docs, videos, and other learning items. I will add a section to try and limit my (lostlocalhost) updates and items separate from the original forked content.  
+
 ## NOTE: This repository has not been properly updated in a good while, and some of my research and learning progress has been moved to private repositories, so this repository acts an an archive for the time being.
 
 ## List of sections
+- [LLH Items](#llh-items)
 - [Online Courses](#online-courses)
 - [Course homepages](#course-homepages-with-no-video)
 - [Tutorials and Documentations](#tutorials-and-documentations)
 - [Books](#books)
 - [Papers](#papers)
 - [Talks and Videos](#talks-and-videos)
+
+### LLH Items
+Quantum Books/Intro Docs:
+- [ ] [Book: Introduction to Quantum Computing](http://ursula.chem.yale.edu/~batista/classes/v572/Mosca.pdf)
+- [ ] [A First Course in Quantum Information Theory](https://qici.weebly.com/uploads/7/4/5/1/74515901/qitextbook.pdf)
+- [ ] [Book: Quantum COmputation and Quantum Information](http://csis.pace.edu/~ctappert/cs837-19spring/QC-textbook.pdf)
+- [ ] [PHY212A Class Notes](https://everettyou.github.io/teaching/)
 
 ### Online Courses
 Note: I've decided that I need to review that math courses that I took over 2 years ago. So that's where we are atm.
